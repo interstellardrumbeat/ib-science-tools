@@ -27,7 +27,7 @@ We (yes, I was a student, once, too) all know the feeling of having too many pos
 
 ## Why I Make These Tools
 
-We (yes, I was student once, too) all know the feeling of being overwhelmed by the sheer amount of material, concepts and possibilities within complex subjects like Chemistry and Phyisics. 
+We (_yes, I was student once, too_) all know the feeling of being overwhelmed by the sheer amount of material, concepts and possibilities within complex subjects like Chemistry and Phyisics. 
 
 These tools are designed to make the approach to IB sciences easier for everyone.
 
