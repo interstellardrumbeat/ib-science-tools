@@ -22,8 +22,8 @@ We (yes, I was a student, once, too) all know the feeling of having too many pos
 - preparing before topic tests or exams
 - making revision sessions more targeted
 
-**Tool:** [What Should I Revise?](https://interstellardrumbeat.github.io/what-should-i-revise/)
-**Repository:** [View reporistory](https://github.com/interstellardrumbeat/what-should-i-revise
+**Tool:** [What Should I Revise?](https://interstellardrumbeat.github.io/what-should-i-revise/)  
+**Repository:** [View reporistory](https://github.com/interstellardrumbeat/what-should-i-revise)  
 
 ## Why I Make These Tools
 
